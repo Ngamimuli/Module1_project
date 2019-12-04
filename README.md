@@ -4,8 +4,8 @@ This README.md lists project members, goals, responsibilities, and a summary of 
 ## Project File Summary
 Within the project repository, the summary of files are as follows:
 
-bom.movie_gross.csv.gz
-imdb.name.basics.csv.gz
+bom.movie_gross.csv.gz<br>
+imdb.name.basics.csv.gz<br>
 imdb.title.akas.csv.gz
 imdb.title.basics.csv.gz
 imdb.title.crew.csv.gz
