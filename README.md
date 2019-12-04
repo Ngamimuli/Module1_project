@@ -6,27 +6,27 @@ Within the project repository, the summary of files are as follows:
 
 bom.movie_gross.csv.gz<br>
 imdb.name.basics.csv.gz<br>
-imdb.title.akas.csv.gz
-imdb.title.basics.csv.gz
-imdb.title.crew.csv.gz
-imdb.title.principals.csv.gz
-imdb.title.ratings.csv.gz
-rt.movie_info.tsv.gz
-rt.reviews.tsv.gz
-tmdb.movies.csv.gz
-tn.movie_budgets.csv.gz
+imdb.title.akas.csv.gz<br>
+imdb.title.basics.csv.gz<br>
+imdb.title.crew.csv.gz<br>
+imdb.title.principals.csv.gz<br>
+imdb.title.ratings.csv.gz<br>
+rt.movie_info.tsv.gz<br>
+rt.reviews.tsv.gz<br>
+tmdb.movies.csv.gz<br>
+tn.movie_budgets.csv.gz<br>
 
-df_final_alex_vj.csv
-Module1_project -Alex & VJ.pdf
-Module 1 Project - Technical Notebook - Alex + VJ.ipynb
-Feeling Out The Data.ipynb
-README.md
+df_final_alex_vj.csv<br>
+Module1_project -Alex & VJ.pdf<br>
+Module 1 Project - Technical Notebook - Alex + VJ.ipynb<br>
+Feeling Out The Data.ipynb<br>
+README.md<br>
 
 
-## Project Members
-The members for this project are:
+## Project Members<br>
+The members for this project are:<br>
 
-Alex Cheng
+Alex Cheng<br>
 VJ
 
 ## Project Goals
